@@ -77,6 +77,22 @@ This chapter lays the groundwork for building and training neural networks in su
 
 ---
 
+### Chapter 4 – Machine Learning Concepts
+
+This notebook presents foundational **machine learning concepts** required for understanding deep learning workflows. The chapter focuses on high-level theory and terminology that underpin supervised and unsupervised learning approaches.
+
+The notebook includes conceptual notes covering:
+
+- What is machine learning  
+- Types of machine learning  
+- Supervised vs. unsupervised learning  
+- Regression vs. classification problems  
+- Basic machine learning workflow and terminology  
+
+This chapter provides the theoretical context needed before progressing to building and training deep learning models in PyTorch.
+
+---
+
 ## References
 
 Jose Portilla, *PyTorch for Deep Learning with Python Bootcamp*, Udemy.  
