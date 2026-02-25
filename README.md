@@ -60,6 +60,23 @@ This chapter builds essential data wrangling skills required for preparing real-
 
 ---
 
+### Chapter 3 – PyTorch Basics
+
+This notebook introduces the core fundamentals of **PyTorch**, focusing on tensor creation, manipulation, and the foundational concepts required for deep learning workflows. It establishes the essential building blocks for working with tensors in PyTorch.
+
+The notebook includes practical examples covering:
+
+- Understanding tensors and their dimensions  
+- Creating PyTorch tensors  
+- Converting NumPy arrays to tensors  
+- Tensor indexing and reshaping  
+- Basic tensor operations  
+- Relationship between NumPy arrays and PyTorch tensors  
+
+This chapter lays the groundwork for building and training neural networks in subsequent deep learning modules.
+
+---
+
 ## References
 
 Jose Portilla, *PyTorch for Deep Learning with Python Bootcamp*, Udemy.  
