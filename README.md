@@ -93,6 +93,14 @@ This chapter provides the theoretical context needed before progressing to build
 
 ---
 
+### Chapter 5 — Artificial Neural Networks
+
+This chapter introduces the basic concepts of **Artificial Neural Networks (ANNs)**. It begins with the idea of a **perceptron** and extends it to **multi-layer neural networks**, explaining how hidden layers allow models to learn complex patterns from data. The chapter also discusses commonly used **activation functions** such as sigmoid, tanh, and ReLU, and explains how neural networks handle **multi-class classification** using techniques like **one-hot encoding** and activation functions such as **softmax** and **sigmoid**.   
+
+In addition, the chapter introduces a **PyTorch implementation of a neural network for tabular data**, demonstrating how categorical variables can be handled using **embedding layers** and continuous variables using **batch normalization** before passing them through fully connected neural network layers.
+
+---
+
 ## References
 
 Jose Portilla, *PyTorch for Deep Learning with Python Bootcamp*, Udemy.  
